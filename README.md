@@ -6,6 +6,9 @@ Note: This work is licensed under a Creative Commons Attribution-NonCommercial 4
 License here: https://creativecommons.org/licenses/by-nc/4.0/
 We are not modifying the dataset or using it for commercial purposes.
 
+NOTE 2: We had to remove all examples alphabetically after 7780 (so 78 and onwards) as 
+the annotations stopped matching up with the audio for some reason.
+
 LibriStutter Dataset
 ======================
 Queen's University
