@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e5d10a140b530e333138527d73ae22285e09c26db7a5f6944a3438e860db3b4
-size 25
+but who is ostrog he said

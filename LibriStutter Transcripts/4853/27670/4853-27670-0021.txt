@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bfc229d203f9d04ffa29891fb0eb2df9468cdff342b3854db6b64cc87eda738
-size 239
+I took from the captain's cabin a stout cloak and threw it over me enveloping my head which I had cased in a warm fur cap with the hood of it and thus equipped I lighted a small hand lantern that was used on Dark Nights for heaving the log

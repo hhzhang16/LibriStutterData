@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92df5ff9daad42d596cf692fd588d4f82a33eae9f69783425dc0c3432b8aaf36
-size 44
+and sold are the goods carried by the camels

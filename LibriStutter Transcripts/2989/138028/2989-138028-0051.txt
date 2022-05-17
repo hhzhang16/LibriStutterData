@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:306ce2c5ec9ad0be93f0398350dfc0dd10933c3f94aebd87c3658d4f00c89590
-size 54
+and so long as one gain something there's nothing lost

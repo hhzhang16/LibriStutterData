@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e57dc1c8152221e2439d8270df7116102b8a4a5195bb5aeec3d0bf2781bb1e6
-size 185
+a recipe tells us that crayfish can be preserved several days in baskets with fresh grass such as the nettle or in a bucket with about 3/8 of an inch of water more water would kill them

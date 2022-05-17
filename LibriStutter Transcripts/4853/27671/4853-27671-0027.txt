@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8da77746348f3d08f7cfe304e4aaa0ad3e650206e9bfcaa75588789c11b70586
-size 29
+the boat was about 15 ft long

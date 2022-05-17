@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23245e0750406292afe8a7e9d35fde5c25703e4052a4c0d7878ffd1e9215a256
-size 64
+no news at all his projects must be brought to their final issue

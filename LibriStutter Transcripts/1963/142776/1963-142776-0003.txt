@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:585efc8d966b7c7672f4416d9090df2dbd4ebd3ef169c91da6cf549ffe61f897
-size 202
+mode shell the crayfish put the fish between two plates until they are wanted pound the shells in a mortar with the butter and anchovies when well beaten at a pint of stock and simmer for 3/4 of an hour

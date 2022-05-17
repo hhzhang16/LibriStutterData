@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:770641c1723e58940b3fa302c436b3ef6514249f7ae274a422f880ba262236d1
-size 67
+said Greg Haskell I ain't there that's where you and me don't agree

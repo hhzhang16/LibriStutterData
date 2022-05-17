@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91e86a23e885f271df628962b9fa89d768155d7224697bba1a371b1a78342bd5
-size 88
+he made a little deprecating movement with his hands it is not certain that you will die

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ef061a8701057a71e4c0a5db86260a8c786f0f9c88f48360bb8fb1ad800ad14
-size 93
+this little fish Bears a striking resemblance to the shrimp but it's neither "so nor so small

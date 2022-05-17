@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:edf5cf4de9e351be22ba8df41cae42f526d05d3efa5877bd242ce6dd938df4d4
-size 150
+I do not like Bruins tattered Cottages I'm not fond of nettles and thistles or Heath blossoms I've more pleasure in a snug Farmhouse than a watchtower

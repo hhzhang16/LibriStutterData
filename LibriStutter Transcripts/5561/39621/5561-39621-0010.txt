@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1366958f6b9990639278562f11dae04fb71b9793e3c1b54fd23e8b6b391af11
-size 59
+whisker probably were mangled and Joseline on the staircase

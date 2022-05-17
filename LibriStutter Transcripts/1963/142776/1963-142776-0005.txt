@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e980fe8712afeeba6061be64bb446d00f7499c7e258ac584c3b7c106dcc05c22
-size 201
+this is one of those fishes that were highly esteemed the ancient the Greeks preferred it when brought from Alexandria and the Romans 8 it boils with cumin and seasoned with pepper and other condiments

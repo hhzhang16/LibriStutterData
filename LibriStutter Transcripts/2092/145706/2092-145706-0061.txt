@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1201d2978183626f055609b8e9cb9f149441cc04c05db1588e1340b8967f07c5
-size 211
+the little mouse had summoned every other Mouse in the land to its help and together they had collected all the Grain in the Kingdom the king could not hide his amazement but at the same time his wrath increased

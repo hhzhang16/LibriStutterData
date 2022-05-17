@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fe4833a9fa1c68d218f90badf0bc4be6c26c245fdacdf8f41416e9729969b86
-size 148
+in case something happens what should happen I don't know but all our life together has been in the forest and I'm just a little afraid of the world

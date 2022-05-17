@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b6846fa8cacce03147beccd168d477f0c05ba6246fc112c9561302ea172089b
-size 120
+the early dusk of a November afternoon had already closed in the street lamps in the thick brown are looked weak and red

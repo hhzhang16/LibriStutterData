@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6feb6b13997e7087a2c8250fd53dcbf69ea08e40603050096222ab0eff2bced
-size 177
+an examination of the weather map shows that these hailstorms occur on the southside of a region of cold Northerly winds and we're but a small part of a series of similar storms

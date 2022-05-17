@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96b21445162f54c1d346787e585f0057f46b61274c0ef3db2a1734377296df78
-size 66
+an happened to Jean Valjean he crushed the thumb of his right hand

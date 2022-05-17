@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bda7c9bcaa3784321398e47e04e5a131180470e37fbeef1e821145aac63734cc
-size 70
+when he was 3 weeks old he had an illness which left him totally blind

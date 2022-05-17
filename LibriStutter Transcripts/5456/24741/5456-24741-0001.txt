@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d59d08b36a0a0164048caa6aaca81255aa6d8fbcd24133522fc92d031b704691
-size 55
+proof all the modes in which any given body is affected

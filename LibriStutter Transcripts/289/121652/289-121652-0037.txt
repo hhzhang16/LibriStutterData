@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1a235d24fc3779ad37f5e7463e1ba0d848fb65c4023c4e17a5631cb124de02e
-size 247
+for that reason I have written this book in making the stories I have followed mainly the suggestions of the Rhymes my hope is that the little ones will like them and not find that they interfere with a fanciful creations of their own imaginations

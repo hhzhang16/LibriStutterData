@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01c7a50064c6a74a612edfcea27b5387151c9cf674e8b74f8a19b48998f16a59
-size 55
+like a pike it looks at least with my father to himself

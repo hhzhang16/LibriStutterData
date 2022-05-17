@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fadf71042665a89cb73f7bf6ea73be3e3352b4cdfb5702159bd8e4bd8a5ab56b
-size 41
+the bread eaten and the company disbursed

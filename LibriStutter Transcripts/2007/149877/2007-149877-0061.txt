@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36b4bb2a126a8ddfda31f55d39bcc1ee6189d40e5ea6eea9b801d777a652a397
-size 26
+set hurstwood that's right

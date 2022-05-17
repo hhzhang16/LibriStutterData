@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d3614ab6ad9244a68243221a970d23675872fa79d74c364dbcb59fcd62f5000
-size 50
+in various ways it was a prevalent opinion however

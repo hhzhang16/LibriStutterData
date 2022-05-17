@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bd3f38e7cf817e5ee363f309ca75546480536c92d0342f0e8e556c9f99bc2c9
-size 48
+what are the thoughts or they Hearts workings be

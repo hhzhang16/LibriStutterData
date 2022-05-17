@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0606f9672b9245d0414b6502c09d7fb7cdf411f9c8d73f7e0e359d0d59d5d8e1
-size 220
+is based upon very meager and evidence the earliest English edition of mother gooses Melodies that is absolutely authentic was issued by John Newberry of London about the year 1760 and the first othentic American Edition

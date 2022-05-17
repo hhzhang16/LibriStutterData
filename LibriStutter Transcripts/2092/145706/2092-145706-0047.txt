@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c541e9ae99bfd783140254851e161370c6681790908140e7b6b4992fa490bd6
-size 204
+The Splendid Palace had been built by The Grateful queen bee who had summoned all the other bees in the Kingdom to help her the Kings amazement knew no bounds and the princesses eyes beamed with the light

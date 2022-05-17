@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f51c00ed96a2f1a411423f26978c9d8eafda2c7d18df1ccf4b053ff0ae6f2fe
-size 30
+is the middle of all the words

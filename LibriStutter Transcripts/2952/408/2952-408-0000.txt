@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:410ec4cb7cfd25f2098e931ace8f4ceee932e965d5b73d7946ed54df9f876efc
-size 35
+chicken Inky once when muso kokushi

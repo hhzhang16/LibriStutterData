@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c333738bea034a6fefd8227bf21a690bdabe912d3f638855e8d9cc4ceedaac0c
-size 250
+the great intellectual pointsman of our age the man who has done more than any other of this generation to give direction to the thought of his contemporaries has passed away and we are left to measure the loss to humanity by the result of his labors

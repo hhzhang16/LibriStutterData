@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c643c306ed5da134c8e9266d87e728b9b37334b02fdd532d182c3c1d9f2ac0c2
-size 157
+I know as a great Christian poet says that it is by rugged past like these that go scale the heights of immortality unreached by those that falter here below

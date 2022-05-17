@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:968c8ae093dc9b4bee1788fcb7ab6a2d886bc7288dc07353bee68d5edbec047d
-size 24
+chapter 8 to apparitions

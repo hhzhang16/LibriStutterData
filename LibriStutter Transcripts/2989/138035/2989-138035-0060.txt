@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04e939cb21c41b4e0e81b6393a3bdb49789a8d422d16d387eb343c75a75d4dc0
-size 73
+Senor it's my opinion the poor man should be content with what he can get

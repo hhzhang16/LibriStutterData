@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd689d21881ffd80b1973380434211cfdfa328ff430c67111c006c83aa6e752a
-size 61
+and gave him the best education that could be had in the city

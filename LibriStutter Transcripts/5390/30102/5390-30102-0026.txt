@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:762625666c9afbe485606e06faa49b8f1fbcbfb7f3332d0865cf76bb4e646000
-size 82
+Dan ground and ambled slowly around to where Uncle John Stewart awaiting his niece

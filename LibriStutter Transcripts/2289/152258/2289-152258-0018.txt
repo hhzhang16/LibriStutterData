@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbc6bf96432b134029f20a6c4e24d7c56fb64e2a9f11765d558db52ad00b7062
-size 67
+this book is the Koran which means like our own word bible the book

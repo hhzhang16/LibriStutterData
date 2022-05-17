@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:231abca0a5b8196295bdf7c3b2030613debff8334f2939b047df6eae1ebab777
-size 32
+her character is revealed itself

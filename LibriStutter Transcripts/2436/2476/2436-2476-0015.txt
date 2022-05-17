@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0557026a4f6a80c781abae018c69baac7a30984cc9a91767d8afa3c4289bbbdf
-size 31
+protected the Mannitol pondside

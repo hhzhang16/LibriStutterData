@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:69e97d7721e220fc79ce3510377182726e5ddda86fe83e1f5d352c19a527a63f
-size 105
+it was a great Rocky cave in the mountains in this cave live a strange man called The Hermit of the rocks

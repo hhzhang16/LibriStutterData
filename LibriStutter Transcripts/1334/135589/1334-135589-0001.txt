@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1052a7edabb2d1ac8914a40d382b0c8474468524ccbfc4240ac2d61467e103b0
-size 62
+you have to choose between two generals both in The Art of War

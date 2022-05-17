@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4a3bbc15ddd3643dff962bc7b28daf4b950716b0d1bec7749d413ce101a06c7
-size 46
+February 11th 1859 the editor of the zoologist

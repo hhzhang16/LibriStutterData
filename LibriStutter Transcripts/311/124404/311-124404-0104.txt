@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:445dc990df3186dd46189e4f4fdf0a003f013b67f233bf07d72ab75fd173a986
-size 140
+for example if touched a particular place it may depend what we wish to say to it if in another it may cry out that it is hurt and such like

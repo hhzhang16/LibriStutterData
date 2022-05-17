@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20899b354f56a50a2a9294a963411627bff1e6ead2dd9fddabf1d24f4d81673b
-size 102
+there's a mosque called the Great mosque it is a large enclosure in the form of a quadrangle or Square

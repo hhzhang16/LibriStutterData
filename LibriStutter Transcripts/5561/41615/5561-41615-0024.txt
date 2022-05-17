@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d82ce268a22bbe8014d903aebf06099dc490d4f38316462cc9e578c2b527a484
-size 72
+I wrote it Miss Thompson she said clearly I wrote it because I wished to
